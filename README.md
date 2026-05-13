@@ -1,5 +1,5 @@
 # Tower Defense — OOP Semester Project
-### NUCES | Object Oriented Programming
+### FAST NUCES | Object Oriented Programming
 
 A fully-featured Tower Defense game built in C++ using the raylib graphics library, developed as a semester project demonstrating Object Oriented Programming concepts including Inheritance, Polymorphism, Encapsulation, and Operator Overloading.
 
