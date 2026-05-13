@@ -1,0 +1,4 @@
+# Tower Defense High Scores
+map0 5 520
+map1 2 215
+map2 5 100
